@@ -4,3 +4,4 @@ This is a repo for testing, playing, cheering and whining.
 
 Fork it, play with it and improve it!
 
+https://github.com/kresta6/play_with_git.git
