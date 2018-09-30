@@ -1,4 +1,6 @@
-# play_with_git
+# Kresta Desposato 
+
+## play_with_git
 
 This is a repo for testing, playing, cheering and whining.
 
